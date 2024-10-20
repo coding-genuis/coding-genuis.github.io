@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Garrett Rose / Site Title"
 title_separator          : "-"
 name                     : &name "Garrett Rose"
-description              : &description "personal description"
+description              : &description "I am a student at Havre De Grace High School and am currently enrolled in the Information Technology Oracle Academy (ITOA) program"
 url                      : https://coding-genuis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "coding-genuis/coding-genuis.github.io"
@@ -22,13 +22,13 @@ repository               : "coding-genuis/coding-genuis.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Garrett Rose"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rose.garrett.b@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
