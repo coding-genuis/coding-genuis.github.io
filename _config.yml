@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Garrett Rose"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "He/Him"  
+  bio              : "I am a student at Havre De Grace High School and am currently enrolled in the Information Technology Oracle Academy (ITOA) program. I play on the Varsity Soccer team and am a part of the track team"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "N/A"
   uri              : # URL
   email            : "rose.garrett.b@gmail.com" 
 
